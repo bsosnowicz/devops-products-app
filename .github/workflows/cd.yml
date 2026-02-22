@@ -5,7 +5,7 @@ on:
     branches: [main]
 
 env:
-  AZURE_WEBAPP_NAME: Products-app #test2
+  AZURE_WEBAPP_NAME: Products-app #test4
   AZURE_WEBAPP_PACKAGE_PATH: '.'
   NODE_VERSION: '20'
 
