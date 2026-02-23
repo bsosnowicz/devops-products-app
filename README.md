@@ -18,6 +18,9 @@ Aplikacja udostępnia API do zarządzania listą produktów. Projekt demonstruje
 | GET | `/products` | Lista wszystkich produktów |
 | GET | `/products/:id` | Szczegóły produktu |
 
+## Domenma domyślna Azure
+https://products-app.azurewebsites.net
+
 ## Instrukcja uruchomienia
 
 ### Wymagania
