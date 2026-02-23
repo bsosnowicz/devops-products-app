@@ -57,3 +57,10 @@ npm test
 
 - **CI:** Automatyczny build i testy na każdym Pull Requeście
 - **CD:** Automatyczny deploy do Azure po merge do main
+
+
+## Konteneryzacja (docker)
+- Budowanie obrazu
+# docker build -t devops-products-app .
+- Uruchomienie kontenerów
+# docker-compose up -d
